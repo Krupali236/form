@@ -18,7 +18,6 @@ This project builds upon the `create-vite` to allow for more customization.
 To start developing, run:
 
 ```bash
-cd undefined
 npm run dev
 ```
 
